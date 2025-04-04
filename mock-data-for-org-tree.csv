@@ -1,4 +1,4 @@
-id,Organization unit code,Organization group,parentId
+id,name,group,parentId
 subsidiary a,subsidiary a,Basin,NULL
 America,AM,Region,subsidiary a
 Asia,AS,Region,subsidiary a

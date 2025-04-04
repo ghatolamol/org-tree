@@ -1,5 +1,5 @@
 id,Organization unit code,Organization group,parentId
-subsidiary a,subsidiary a,Basin,
+subsidiary a,subsidiary a,Basin,NULL
 America,AM,Region,subsidiary a
 Asia,AS,Region,subsidiary a
 Australia,AU,Region,subsidiary a

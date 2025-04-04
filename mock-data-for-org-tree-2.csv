@@ -1,8 +1,8 @@
 id,name,group,parentId
 subsidiary a,subsidiary a,Basin,
-America,	AM,	Region,	subsidiary a
-Asia,	AS,	Region,	subsidiary a
-Australia,	AU,	Region,	subsidiary a
-Europe,	EU,	Region,	subsidiary a
-South America,	SA,	Region,	subsidiary a
-ChanakyaG,	CKG-7G6C,	Asset,	Asia
+America,AM,Region,subsidiary a
+Asia,AS,Region,subsidiary a
+Australia,AU,Region,subsidiary a
+Europe,EU,Region,subsidiary a
+South America,SA,Region,subsidiary a
+ChanakyaG,CKG-7G6C,Asset,Asia

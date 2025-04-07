@@ -1,0 +1,242 @@
+id,name,group,parentId,level
+subsidiary a,subsidiary a,Basin,,1
+America,AM,Region,subsidiary a,2
+Asia,AS,Region,subsidiary a,2
+Australia,AU,Region,subsidiary a,2
+Europe,EU,Region,subsidiary a,2
+South America,SA,Region,subsidiary a,2
+ChanakyaG,CKG-7G6C,Asset,America,3
+Horizon,HRZ-1N9L,Asset,America,3
+NovaEnergy,NVA-EN-YONR,Asset,America,3
+RudraOil,RDO-KBPP,Asset,America,3
+Rudra,RUD-8D33,Asset,Asia,3
+SHMIY,SHM-Y-FF2M,Asset,Asia,3
+Aurora ,AUR-LGSK ,Asset ,Asia,3
+FrontierEnergy ,FRT-EN-0121 ,Asset ,Australia,3
+SeraphicSpire,SRP-SP-69M1,Asset,Australia,3
+Aurora1 ,AUR-LGSK ,Asset ,Australia,3
+Helios ,HLS-N6YE ,Asset ,Europe,3
+NovaEnergy ,NVA-EN-YONR ,Asset ,Europe,3
+OceanPioneer ,OCP-UM-98J3 ,Asset ,Europe,3
+Polaris ,PLR-FD6P ,Asset ,Europe,3
+SummitEnergy ,SMT-EN-FAS1 ,Asset ,South America,3
+TitanGas ,TNG-WOHY ,Asset ,South America,3
+ZenithRidge ,ZNR-X0E8 ,Asset ,South America,3
+America1 ,AM ,Facility ,ChanakyaG,4
+ZenithRidge LNG Tank M ,FAC-AB5-M ,Facility ,ChanakyaG,4
+Aurora ONS I ,FAC-BJ1-I ,Facility ,ChanakyaG,4
+NovaEnergy Facility D,FAC-CD3-D,Facility,ChanakyaG,4
+OceanPioneer Boosting Facility W,FAC-CV5-W,Facility,ChanakyaG,4
+America2,AM,Facility,ChanakyaG,4
+Europe Mock 1,Europe-1,Facility,ChanakyaG,4
+America Mock 2,America-2,Facility,ChanakyaG,4
+Asia Mock 3,Asia-3,Facility,ChanakyaG,4
+Australia Mock 4,Australia-4,Facility,ChanakyaG,4
+America Mock 5,America-5,Facility,ChanakyaG,4
+America Mock 6,America-6,Facility,ChanakyaG,4
+Europe Mock 7,Europe-7,Facility,ChanakyaG,4
+America Mock 8,America-8,Facility,ChanakyaG,4
+South America Mock 9,South America-9,Facility,ChanakyaG,4
+South America Mock 10,South America-10,Facility,ChanakyaG,4
+South America Mock 11,South America-11,Facility,ChanakyaG,4
+Asia Mock 12,Asia-12,Facility,ChanakyaG,4
+South America Mock 13,South America-13,Facility,ChanakyaG,4
+Australia Mock 14,Australia-14,Facility,ChanakyaG,4
+Europe Mock 15,Europe-15,Facility,ChanakyaG,4
+Australia Mock 16,Australia-16,Facility,ChanakyaG,4
+Australia Mock 17,Australia-17,Facility,ChanakyaG,4
+Europe Mock 18,Europe-18,Facility,ChanakyaG,4
+Australia Mock 19,Australia-19,Facility,ChanakyaG,4
+Asia Mock 20,Asia-20,Facility,ChanakyaG,4
+Asia Mock 21,Asia-21,Facility,ChanakyaG,4
+America Mock 22,America-22,Facility,ChanakyaG,4
+Australia Mock 23,Australia-23,Facility,ChanakyaG,4
+America Mock 24,America-24,Facility,ChanakyaG,4
+Australia Mock 25,Australia-25,Facility,ChanakyaG,4
+Europe Mock 26,Europe-26,Facility,ChanakyaG,4
+South America Mock 27,South America-27,Facility,ChanakyaG,4
+South America Mock 28,South America-28,Facility,Horizon,4
+Australia Mock 29,Australia-29,Facility,Horizon,4
+America Mock 30,America-30,Facility,Horizon,4
+Australia Mock 31,Australia-31,Facility,Horizon,4
+America Mock 32,America-32,Facility,Horizon,4
+Asia Mock 33,Asia-33,Facility,Horizon,4
+Asia Mock 34,Asia-34,Facility,Horizon,4
+Europe Mock 35,Europe-35,Facility,Horizon,4
+Asia Mock 36,Asia-36,Facility,Horizon,4
+Europe Mock 37,Europe-37,Facility,Horizon,4
+Asia Mock 38,Asia-38,Facility,Horizon,4
+America Mock 39,America-39,Facility,Horizon,4
+America Mock 40,America-40,Facility,Horizon,4
+Australia Mock 41,Australia-41,Facility,Horizon,4
+Australia Mock 42,Australia-42,Facility,Horizon,4
+Europe Mock 43,Europe-43,Facility,Horizon,4
+Australia Mock 44,Australia-44,Facility,NovaEnergy,4
+Europe Mock 45,Europe-45,Facility,NovaEnergy,4
+America Mock 46,America-46,Facility,NovaEnergy,4
+Australia Mock 47,Australia-47,Facility,NovaEnergy,4
+Australia Mock 48,Australia-48,Facility,NovaEnergy,4
+South America Mock 49,South America-49,Facility,NovaEnergy,4
+South America Mock 50,South America-50,Facility,NovaEnergy,4
+Australia Mock 51,Australia-51,Facility,NovaEnergy,4
+Asia Mock 52,Asia-52,Facility,NovaEnergy,4
+South America Mock 53,South America-53,Facility,NovaEnergy,4
+Australia Mock 54,Australia-54,Facility,NovaEnergy,4
+Australia Mock 55,Australia-55,Facility,NovaEnergy,4
+America Mock 56,America-56,Facility,NovaEnergy,4
+Asia Mock 57,Asia-57,Facility,RudraOil,4
+America Mock 58,America-58,Facility,RudraOil,4
+South America Mock 59,South America-59,Facility,RudraOil,4
+South America Mock 60,South America-60,Facility,RudraOil,4
+America Mock 61,America-61,Facility,RudraOil,4
+Europe Mock 62,Europe-62,Facility,RudraOil,4
+South America Mock 63,South America-63,Facility,RudraOil,4
+Europe Mock 64,Europe-64,Facility,RudraOil,4
+Australia Mock 65,Australia-65,Facility,RudraOil,4
+Australia Mock 66,Australia-66,Facility,RudraOil,4
+Australia Mock 67,Australia-67,Facility,RudraOil,4
+South America Mock 68,South America-68,Facility,RudraOil,4
+America Mock 69,America-69,Facility,RudraOil,4
+America Mock 70,America-70,Facility,RudraOil,4
+South America Mock 71,South America-71,Facility,RudraOil,4
+Australia Mock 72,Australia-72,Facility,RudraOil,4
+South America Mock 73,South America-73,Facility,RudraOil,4
+America Mock 74,America-74,Facility,RudraOil,4
+South America Mock 75,South America-75,Facility,RudraOil,4
+Europe Mock 76,Europe-76,Facility,RudraOil,4
+Europe Mock 77,Europe-77,Facility,RudraOil,4
+South America Mock 78,South America-78,Facility,RudraOil,4
+Australia Mock 79,Australia-79,Facility,Australia,4
+Asia Mock 80,Asia-80,Facility,Rudra,4
+Asia Mock 81,Asia-81,Facility,Rudra,4
+Asia Mock 82,Asia-82,Facility,Rudra,4
+Europe Mock 83,Europe-83,Facility,Rudra,4
+Australia Mock 84,Australia-84,Facility,Rudra,4
+South America Mock 85,South America-85,Facility,Rudra,4
+South America Mock 86,South America-86,Facility,Rudra,4
+South America Mock 87,South America-87,Facility,Rudra,4
+Europe Mock 88,Europe-88,Facility,Rudra,4
+Asia Mock 89,Asia-89,Facility,Rudra,4
+Europe Mock 90,Europe-90,Facility,Rudra,4
+America Mock 91,America-91,Facility,Rudra,4
+Europe Mock 92,Europe-92,Facility,Rudra,4
+Europe Mock 93,Europe-93,Facility,Rudra,4
+Asia Mock 94,Asia-94,Facility,Rudra,4
+South America Mock 95,South America-95,Facility,Rudra,4
+Europe Mock 96,Europe-96,Facility,Rudra,4
+South America Mock 97,South America-97,Facility,Rudra,4
+America Mock 98,America-98,Facility,Rudra,4
+Asia Mock 99,Asia-99,Facility,Rudra,4
+Australia Mock 100,Australia-100,Facility,Rudra,4
+NovaEnergy Mock 101,NovaEnergy-101,Facility,Rudra,4
+NovaEnergy Mock 102,NovaEnergy-102,Facility,Rudra,4
+NovaEnergy Mock 103,NovaEnergy-103,Facility,Rudra,4
+NovaEnergy Mock 104,NovaEnergy-104,Facility,Rudra,4
+NovaEnergy Mock 105,NovaEnergy-105,Facility,Rudra,4
+NovaEnergy Mock 106,NovaEnergy-106,Facility,Rudra,4
+NovaEnergy Mock 107,NovaEnergy-107,Facility,Rudra,4
+NovaEnergy Mock 108,NovaEnergy-108,Facility,Rudra,4
+NovaEnergy Mock 109,NovaEnergy-109,Facility,Rudra,4
+NovaEnergy Mock 110,NovaEnergy-110,Facility,Rudra,4
+NovaEnergy Mock 111,NovaEnergy-111,Facility,Rudra,4
+NovaEnergy Mock 112,NovaEnergy-112,Facility,SHMIY,4
+NovaEnergy Mock 113,NovaEnergy-113,Facility,SHMIY,4
+NovaEnergy Mock 114,NovaEnergy-114,Facility,SHMIY,4
+NovaEnergy Mock 115,NovaEnergy-115,Facility,SHMIY,4
+NovaEnergy Mock 116,NovaEnergy-116,Facility,SHMIY,4
+NovaEnergy Mock 117,NovaEnergy-117,Facility,SHMIY,4
+NovaEnergy Mock 118,NovaEnergy-118,Facility,SHMIY,4
+NovaEnergy Mock 119,NovaEnergy-119,Facility,SHMIY,4
+NovaEnergy Mock 120,NovaEnergy-120,Facility,SHMIY,4
+NovaEnergy Mock 121,NovaEnergy-121,Facility,SHMIY,4
+NovaEnergy Mock 122,NovaEnergy-122,Facility,SHMIY,4
+NovaEnergy Mock 123,NovaEnergy-123,Facility,SHMIY,4
+NovaEnergy Mock 124,NovaEnergy-124,Facility,SHMIY,4
+NovaEnergy Mock 125,NovaEnergy-125,Facility,SHMIY,4
+NovaEnergy Mock 126,NovaEnergy-126,Facility,SHMIY,4
+NovaEnergy Mock 127,NovaEnergy-127,Facility,SHMIY,4
+NovaEnergy Mock 128,NovaEnergy-128,Facility,SHMIY,4
+NovaEnergy Mock 129,NovaEnergy-129,Facility,SHMIY,4
+NovaEnergy Mock 130,NovaEnergy-130,Facility,SHMIY,4
+NovaEnergy Mock 131,NovaEnergy-131,Facility,SHMIY,4
+NovaEnergy Mock 132,NovaEnergy-132,Facility,SHMIY,4
+NovaEnergy Mock 133,NovaEnergy-133,Facility,SHMIY,4
+NovaEnergy Mock 134,NovaEnergy-134,Facility,SHMIY,4
+NovaEnergy Mock 135,NovaEnergy-135,Facility,SHMIY,4
+NovaEnergy Mock 136,NovaEnergy-136,Facility,SHMIY,4
+NovaEnergy Mock 137,NovaEnergy-137,Facility,SHMIY,4
+NovaEnergy Mock 138,NovaEnergy-138,Facility,SHMIY,4
+NovaEnergy Mock 139,NovaEnergy-139,Facility,SHMIY,4
+NovaEnergy Mock 140,NovaEnergy-140,Facility,SHMIY,4
+NovaEnergy Mock 141,NovaEnergy-141,Facility,SHMIY,4
+NovaEnergy Mock 142,NovaEnergy-142,Facility,SHMIY,4
+NovaEnergy Mock 143,NovaEnergy-143,Facility,SHMIY,4
+NovaEnergy Mock 144,NovaEnergy-144,Facility,Aurora ,4
+NovaEnergy Mock 145,NovaEnergy-145,Facility,Aurora ,4
+NovaEnergy Mock 146,NovaEnergy-146,Facility,Aurora ,4
+NovaEnergy Mock 147,NovaEnergy-147,Facility,Aurora ,4
+NovaEnergy Mock 148,NovaEnergy-148,Facility,Aurora ,4
+NovaEnergy Mock 149,NovaEnergy-149,Facility,Aurora ,4
+NovaEnergy Mock 150,NovaEnergy-150,Facility,Aurora ,4
+NovaEnergy Mock 151,NovaEnergy-151,Facility,Aurora ,4
+NovaEnergy Mock 152,NovaEnergy-152,Facility,Aurora ,4
+NovaEnergy Mock 153,NovaEnergy-153,Facility,Aurora ,4
+NovaEnergy Mock 154,NovaEnergy-154,Facility,Aurora ,4
+NovaEnergy Mock 155,NovaEnergy-155,Facility,Aurora ,4
+NovaEnergy Mock 156,NovaEnergy-156,Facility,Aurora ,4
+NovaEnergy Mock 157,NovaEnergy-157,Facility,Aurora ,4
+NovaEnergy Mock 158,NovaEnergy-158,Facility,Aurora ,4
+NovaEnergy Mock 159,NovaEnergy-159,Facility,Aurora ,4
+NovaEnergy Mock 160,NovaEnergy-160,Facility,Aurora ,4
+NovaEnergy Mock 161,NovaEnergy-161,Facility,Aurora ,4
+NovaEnergy Mock 162,NovaEnergy-162,Facility,Aurora ,4
+NovaEnergy Mock 163,NovaEnergy-163,Facility,Aurora ,4
+NovaEnergy Mock 164,NovaEnergy-164,Facility,Aurora ,4
+NovaEnergy Mock 165,NovaEnergy-165,Facility,Aurora ,4
+NovaEnergy Mock 166,NovaEnergy-166,Facility,Aurora ,4
+NovaEnergy Mock 167,NovaEnergy-167,Facility,Aurora ,4
+NovaEnergy Mock 168,NovaEnergy-168,Facility,Aurora ,4
+NovaEnergy Mock 169,NovaEnergy-169,Facility,Aurora ,4
+NovaEnergy Mock 170,NovaEnergy-170,Facility,Aurora ,4
+NovaEnergy Mock 171,NovaEnergy-171,Facility,Aurora ,4
+NovaEnergy Mock 172,NovaEnergy-172,Facility,Aurora ,4
+NovaEnergy Mock 173,NovaEnergy-173,Facility,Aurora ,4
+NovaEnergy Mock 174,NovaEnergy-174,Facility,Aurora ,4
+NovaEnergy Mock 175,NovaEnergy-175,Facility,Aurora ,4
+NovaEnergy Mock 176,NovaEnergy-176,Facility,Aurora ,4
+NovaEnergy Mock 177,NovaEnergy-177,Facility,Aurora ,4
+NovaEnergy Mock 178,NovaEnergy-178,Facility,Aurora ,4
+NovaEnergy Mock 179,NovaEnergy-179,Facility,Aurora ,4
+NovaEnergy Mock 180,NovaEnergy-180,Facility,Aurora ,4
+NovaEnergy Mock 181,NovaEnergy-181,Facility,Aurora ,4
+NovaEnergy Mock 182,NovaEnergy-182,Facility,Aurora ,4
+NovaEnergy Mock 183,NovaEnergy-183,Facility,Aurora ,4
+NovaEnergy Mock 184,NovaEnergy-184,Facility,Aurora ,4
+NovaEnergy Mock 185,NovaEnergy-185,Facility,Aurora ,4
+NovaEnergy Mock 186,NovaEnergy-186,Facility,Aurora ,4
+FrontierEnergy Mock 1,NovaEnergy-187,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 2,NovaEnergy-188,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 3,NovaEnergy-189,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 4,NovaEnergy-190,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 5,NovaEnergy-191,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 6,NovaEnergy-192,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 7,NovaEnergy-193,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 8,NovaEnergy-194,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 9,NovaEnergy-195,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 10,NovaEnergy-196,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 11,NovaEnergy-197,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 12,NovaEnergy-198,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 13,NovaEnergy-199,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 14,NovaEnergy-200,Facility,FrontierEnergy ,4
+FrontierEnergy Mock 15,FAC-BF9-M ,Facility ,FrontierEnergy ,4
+FrontierEnergy Mock 16,FAC-BZ7-R ,Facility ,FrontierEnergy ,4
+FrontierEnergy Mock 17,FAC-CG9-P ,Facility ,FrontierEnergy ,4
+FrontierEnergy Mock 18,FAC-OC0-O ,Facility ,FrontierEnergy ,4
+FrontierEnergy Mock 19,FAC-RJ2-G ,Facility ,FrontierEnergy ,4
+FrontierEnergy Mock 20,FAC-MU5-L ,Facility ,FrontierEnergy ,4
+FrontierEnergy Mock 21,FAC-OY4-N ,Facility ,FrontierEnergy ,4
+FrontierEnergy Mock 22,FAC-DZ7-F ,Facility ,FrontierEnergy ,4
+FrontierEnergy Mock 23,FAC-IF8-Z ,Facility ,FrontierEnergy ,4
+FrontierEnergy Mock 24,FAC-NP1-E ,Facility ,FrontierEnergy ,4
+FrontierEnergy Mock 25,FAC-PP7-A ,Facility ,FrontierEnergy ,4
+FrontierEnergy Mock 26,FAC-SX5-X ,Facility,FrontierEnergy ,4

@@ -1,5 +1,5 @@
 id,name,group,parentId,level
-Subsidiary a,subsidiary a,Basin,,1
+Subsidiary a,Subsidiary a,Basin,,1
 America,AM,Region,Subsidiary a,2
 Asia,AS,Region,Subsidiary a,2
 Australia,AU,Region,Subsidiary a,2

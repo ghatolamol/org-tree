@@ -1,10 +1,10 @@
 id,name,group,parentId,level
-subsidiary a,subsidiary a,Basin,,1
-America,AM,Region,subsidiary a,2
-Asia,AS,Region,subsidiary a,2
-Australia,AU,Region,subsidiary a,2
-Europe,EU,Region,subsidiary a,2
-South America,SA,Region,subsidiary a,2
+Subsidiary a,subsidiary a,Basin,,1
+America,AM,Region,Subsidiary a,2
+Asia,AS,Region,Subsidiary a,2
+Australia,AU,Region,Subsidiary a,2
+Europe,EU,Region,Subsidiary a,2
+South America,SA,Region,Subsidiary a,2
 ChanakyaG,CKG-7G6C,Asset,America,3
 Horizon,HRZ-1N9L,Asset,America,3
 NovaEnergy,NVA-EN-YONR,Asset,America,3
